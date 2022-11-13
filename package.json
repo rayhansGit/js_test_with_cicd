@@ -1,0 +1,22 @@
+{
+  "name": "js_test_with_cicd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "castArray.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rayhansGit/js_test_with_cicd.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rayhansGit/js_test_with_cicd/issues"
+  },
+  "homepage": "https://github.com/rayhansGit/js_test_with_cicd#readme",
+  "dependencies": {
+    "jest": "^29.3.1"
+  }
+}
