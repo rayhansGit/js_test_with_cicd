@@ -7,3 +7,4 @@ test('testing isArray', () => {
     expect(isArrayLike()).toBe(false);
     expect(isArrayLike(()=>{console.log("sending a function")})).toBe(false);
 });
+
