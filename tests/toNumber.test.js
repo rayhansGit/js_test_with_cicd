@@ -21,7 +21,6 @@ test('Expecting toNumber to return type of number for a value "2"', () => {
     expect(typeof toNumber('2')).toBe('number');
 })
 
-
 test('Expecting toNumber to return NaN for a value "9,99"', () => {
     expect(toNumber('9,99')).toBe.NaN;
 })
@@ -36,4 +35,7 @@ test('Expecting toNumber to return NaN for a value "price 99"', () => {
 })
 test('Expecting toNumber to return NaN for a value "9.99.99"', () => {
     expect(toNumber('9.99.99')).toBe.NaN;
+})
+test('Expecting toNumber to return NaN for a value " 9 "', () => {
+    expect(toNumber(' 9 ')).toBe.NaN;
 })
