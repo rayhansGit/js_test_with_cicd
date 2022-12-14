@@ -31,6 +31,9 @@ test('Expecting isEmpty to return false for a not empty list', () => {
 test('Expecting isEmpty to return false for a value ""6.33""', () => {
     expect(isEmpty('"6.33"')).toBe(false);
 })
+test('Expecting isEmpty to return false for a value "Shopping cart"', () => {
+    expect(isEmpty('Shopping cart')).toBe(false);
+})
 test('Expecting isEmpty to return false for a list [[[]]]', () => {
     expect(isEmpty([[[]]])).toBe(false);
 })
