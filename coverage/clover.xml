@@ -1,0 +1,361 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1671107446892" clover="3.2.0">
+  <project timestamp="1671107446893" name="All files">
+    <metrics statements="229" coveredstatements="150" conditionals="246" coveredconditionals="118" methods="42" coveredmethods="25" elements="517" coveredelements="293" complexity="0" loc="229" ncloc="229" packages="2" files="40" classes="40"/>
+    <package name="js_test_with_cicd">
+      <metrics statements="108" coveredstatements="79" conditionals="128" coveredconditionals="77" methods="23" coveredmethods="17"/>
+      <file name="capitalize.js" path="C:\Users\tunii\Desktop\js_test_with_cicd\capitalize.js">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="17" count="11" type="stmt"/>
+      </file>
+      <file name="castArray.js" path="C:\Users\tunii\Desktop\js_test_with_cicd\castArray.js">
+        <metrics statements="2" coveredstatements="2" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+        <line num="34" count="7" type="stmt"/>
+        <line num="35" count="7" type="cond" truecount="2" falsecount="0"/>
+      </file>
+      <file name="compact.js" path="C:\Users\tunii\Desktop\js_test_with_cicd\compact.js">
+        <metrics statements="6" coveredstatements="6" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+        <line num="15" count="1" type="stmt"/>
+        <line num="16" count="1" type="stmt"/>
+        <line num="18" count="1" type="stmt"/>
+        <line num="19" count="6" type="cond" truecount="2" falsecount="0"/>
+        <line num="20" count="3" type="stmt"/>
+        <line num="23" count="1" type="stmt"/>
+      </file>
+      <file name="countBy.js" path="C:\Users\tunii\Desktop\js_test_with_cicd\countBy.js">
+        <metrics statements="7" coveredstatements="7" conditionals="2" coveredconditionals="2" methods="2" coveredmethods="2"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="30" count="2" type="stmt"/>
+        <line num="31" count="6" type="stmt"/>
+        <line num="32" count="6" type="cond" truecount="2" falsecount="0"/>
+        <line num="33" count="2" type="stmt"/>
+        <line num="35" count="4" type="stmt"/>
+        <line num="37" count="6" type="stmt"/>
+      </file>
+      <file name="filter.js" path="C:\Users\tunii\Desktop\js_test_with_cicd\filter.js">
+        <metrics statements="9" coveredstatements="9" conditionals="4" coveredconditionals="3" methods="1" coveredmethods="1"/>
+        <line num="25" count="7" type="stmt"/>
+        <line num="26" count="7" type="stmt"/>
+        <line num="27" count="7" type="cond" truecount="1" falsecount="1"/>
+        <line num="28" count="7" type="stmt"/>
+        <line num="30" count="7" type="stmt"/>
+        <line num="31" count="22" type="stmt"/>
+        <line num="32" count="22" type="cond" truecount="2" falsecount="0"/>
+        <line num="33" count="5" type="stmt"/>
+        <line num="36" count="7" type="stmt"/>
+      </file>
+      <file name="isArguments.js" path="C:\Users\tunii\Desktop\js_test_with_cicd\isArguments.js">
+        <metrics statements="1" coveredstatements="0" conditionals="2" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="20" count="0" type="cond" truecount="0" falsecount="2"/>
+      </file>
+      <file name="isArrayLike.js" path="C:\Users\tunii\Desktop\js_test_with_cicd\isArrayLike.js">
+        <metrics statements="1" coveredstatements="1" conditionals="3" coveredconditionals="3" methods="1" coveredmethods="1"/>
+        <line num="27" count="14" type="cond" truecount="3" falsecount="0"/>
+      </file>
+      <file name="isBoolean.js" path="C:\Users\tunii\Desktop\js_test_with_cicd\isBoolean.js">
+        <metrics statements="1" coveredstatements="1" conditionals="4" coveredconditionals="4" methods="1" coveredmethods="1"/>
+        <line num="20" count="10" type="cond" truecount="4" falsecount="0"/>
+      </file>
+      <file name="isBuffer.js" path="C:\Users\tunii\Desktop\js_test_with_cicd\isBuffer.js">
+        <metrics statements="6" coveredstatements="6" conditionals="17" coveredconditionals="14" methods="1" coveredmethods="0"/>
+        <line num="4" count="2" type="cond" truecount="4" falsecount="0"/>
+        <line num="7" count="2" type="cond" truecount="5" falsecount="0"/>
+        <line num="10" count="2" type="cond" truecount="2" falsecount="0"/>
+        <line num="13" count="2" type="cond" truecount="1" falsecount="1"/>
+        <line num="16" count="2" type="cond" truecount="1" falsecount="1"/>
+        <line num="33" count="2" type="cond" truecount="1" falsecount="1"/>
+      </file>
+      <file name="isEmpty.js" path="C:\Users\tunii\Desktop\js_test_with_cicd\isEmpty.js">
+        <metrics statements="14" coveredstatements="10" conditionals="19" coveredconditionals="11" methods="1" coveredmethods="1"/>
+        <line num="9" count="1" type="stmt"/>
+        <line num="46" count="12" type="cond" truecount="2" falsecount="0"/>
+        <line num="47" count="2" type="stmt"/>
+        <line num="49" count="10" type="cond" truecount="5" falsecount="4"/>
+        <line num="52" count="8" type="stmt"/>
+        <line num="54" count="2" type="stmt"/>
+        <line num="55" count="2" type="cond" truecount="3" falsecount="1"/>
+        <line num="56" count="0" type="stmt"/>
+        <line num="58" count="2" type="cond" truecount="1" falsecount="1"/>
+        <line num="59" count="0" type="stmt"/>
+        <line num="61" count="2" type="stmt"/>
+        <line num="62" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="63" count="0" type="stmt"/>
+        <line num="66" count="2" type="stmt"/>
+      </file>
+      <file name="isLength.js" path="C:\Users\tunii\Desktop\js_test_with_cicd\isLength.js">
+        <metrics statements="2" coveredstatements="2" conditionals="4" coveredconditionals="4" methods="1" coveredmethods="1"/>
+        <line num="2" count="3" type="stmt"/>
+        <line num="29" count="12" type="cond" truecount="4" falsecount="0"/>
+      </file>
+      <file name="isObject.js" path="C:\Users\tunii\Desktop\js_test_with_cicd\isObject.js">
+        <metrics statements="2" coveredstatements="2" conditionals="3" coveredconditionals="3" methods="1" coveredmethods="1"/>
+        <line num="25" count="8" type="stmt"/>
+        <line num="26" count="8" type="cond" truecount="3" falsecount="0"/>
+      </file>
+      <file name="isObjectLike.js" path="C:\Users\tunii\Desktop\js_test_with_cicd\isObjectLike.js">
+        <metrics statements="1" coveredstatements="1" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+        <line num="24" count="5" type="cond" truecount="2" falsecount="0"/>
+      </file>
+      <file name="isSymbol.js" path="C:\Users\tunii\Desktop\js_test_with_cicd\isSymbol.js">
+        <metrics statements="2" coveredstatements="2" conditionals="4" coveredconditionals="4" methods="1" coveredmethods="1"/>
+        <line num="19" count="16" type="stmt"/>
+        <line num="20" count="16" type="cond" truecount="4" falsecount="0"/>
+      </file>
+      <file name="isTypedArray.js" path="C:\Users\tunii\Desktop\js_test_with_cicd\isTypedArray.js">
+        <metrics statements="5" coveredstatements="3" conditionals="6" coveredconditionals="3" methods="2" coveredmethods="0"/>
+        <line num="6" count="2" type="stmt"/>
+        <line num="9" count="2" type="cond" truecount="2" falsecount="0"/>
+        <line num="26" count="2" type="cond" truecount="1" falsecount="1"/>
+        <line num="27" count="0" type="stmt"/>
+        <line num="28" count="0" type="cond" truecount="0" falsecount="2"/>
+      </file>
+      <file name="keys.js" path="C:\Users\tunii\Desktop\js_test_with_cicd\keys.js">
+        <metrics statements="1" coveredstatements="0" conditionals="2" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="32" count="0" type="cond" truecount="0" falsecount="2"/>
+      </file>
+      <file name="reduce.js" path="C:\Users\tunii\Desktop\js_test_with_cicd\reduce.js">
+        <metrics statements="3" coveredstatements="3" conditionals="2" coveredconditionals="1" methods="1" coveredmethods="1"/>
+        <line num="39" count="2" type="cond" truecount="1" falsecount="1"/>
+        <line num="40" count="2" type="stmt"/>
+        <line num="41" count="2" type="stmt"/>
+      </file>
+      <file name="slice.js" path="C:\Users\tunii\Desktop\js_test_with_cicd\slice.js">
+        <metrics statements="16" coveredstatements="0" conditionals="16" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="22" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="23" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="24" count="0" type="stmt"/>
+        <line num="26" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="27" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="29" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="30" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="32" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="33" count="0" type="stmt"/>
+        <line num="35" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="36" count="0" type="stmt"/>
+        <line num="38" count="0" type="stmt"/>
+        <line num="39" count="0" type="stmt"/>
+        <line num="40" count="0" type="stmt"/>
+        <line num="41" count="0" type="stmt"/>
+        <line num="43" count="0" type="stmt"/>
+      </file>
+      <file name="toNumber.js" path="C:\Users\tunii\Desktop\js_test_with_cicd\toNumber.js">
+        <metrics statements="18" coveredstatements="14" conditionals="22" coveredconditionals="9" methods="1" coveredmethods="1"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="8" count="1" type="stmt"/>
+        <line num="11" count="1" type="stmt"/>
+        <line num="14" count="1" type="stmt"/>
+        <line num="17" count="1" type="stmt"/>
+        <line num="20" count="1" type="stmt"/>
+        <line num="45" count="12" type="cond" truecount="2" falsecount="0"/>
+        <line num="46" count="4" type="stmt"/>
+        <line num="48" count="8" type="cond" truecount="1" falsecount="1"/>
+        <line num="49" count="0" type="stmt"/>
+        <line num="51" count="8" type="cond" truecount="1" falsecount="1"/>
+        <line num="52" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="53" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="55" count="8" type="cond" truecount="1" falsecount="1"/>
+        <line num="56" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="58" count="8" type="stmt"/>
+        <line num="59" count="8" type="stmt"/>
+        <line num="60" count="8" type="cond" truecount="3" falsecount="1"/>
+      </file>
+      <file name="toString.js" path="C:\Users\tunii\Desktop\js_test_with_cicd\toString.js">
+        <metrics statements="9" coveredstatements="8" conditionals="12" coveredconditionals="10" methods="2" coveredmethods="2"/>
+        <line num="4" count="2" type="stmt"/>
+        <line num="28" count="18" type="cond" truecount="2" falsecount="0"/>
+        <line num="29" count="8" type="stmt"/>
+        <line num="31" count="10" type="cond" truecount="2" falsecount="0"/>
+        <line num="33" count="4" type="cond" truecount="1" falsecount="1"/>
+        <line num="35" count="8" type="cond" truecount="1" falsecount="1"/>
+        <line num="36" count="0" type="stmt"/>
+        <line num="38" count="8" type="stmt"/>
+        <line num="39" count="8" type="cond" truecount="4" falsecount="0"/>
+      </file>
+      <file name="upperFirst.js" path="C:\Users\tunii\Desktop\js_test_with_cicd\upperFirst.js">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="19" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="js_test_with_cicd..internal">
+      <metrics statements="121" coveredstatements="71" conditionals="118" coveredconditionals="41" methods="19" coveredmethods="8"/>
+      <file name="arrayLikeKeys.js" path="C:\Users\tunii\Desktop\js_test_with_cicd\.internal\arrayLikeKeys.js">
+        <metrics statements="15" coveredstatements="1" conditionals="25" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="7" count="1" type="stmt"/>
+        <line num="18" count="0" type="stmt"/>
+        <line num="19" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="20" count="0" type="cond" truecount="0" falsecount="3"/>
+        <line num="21" count="0" type="cond" truecount="0" falsecount="4"/>
+        <line num="22" count="0" type="cond" truecount="0" falsecount="4"/>
+        <line num="23" count="0" type="stmt"/>
+        <line num="24" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="25" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="26" count="0" type="stmt"/>
+        <line num="27" count="0" type="stmt"/>
+        <line num="29" count="0" type="stmt"/>
+        <line num="30" count="0" type="cond" truecount="0" falsecount="5"/>
+        <line num="37" count="0" type="stmt"/>
+        <line num="40" count="0" type="stmt"/>
+      </file>
+      <file name="arrayReduce.js" path="C:\Users\tunii\Desktop\js_test_with_cicd\.internal\arrayReduce.js">
+        <metrics statements="7" coveredstatements="6" conditionals="6" coveredconditionals="3" methods="1" coveredmethods="1"/>
+        <line num="13" count="2" type="stmt"/>
+        <line num="14" count="2" type="cond" truecount="1" falsecount="1"/>
+        <line num="16" count="2" type="cond" truecount="2" falsecount="2"/>
+        <line num="17" count="0" type="stmt"/>
+        <line num="19" count="2" type="stmt"/>
+        <line num="20" count="6" type="stmt"/>
+        <line num="22" count="2" type="stmt"/>
+      </file>
+      <file name="asciiToArray.js" path="C:\Users\tunii\Desktop\js_test_with_cicd\.internal\asciiToArray.js">
+        <metrics statements="1" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="9" count="0" type="stmt"/>
+      </file>
+      <file name="baseAssignValue.js" path="C:\Users\tunii\Desktop\js_test_with_cicd\.internal\baseAssignValue.js">
+        <metrics statements="3" coveredstatements="2" conditionals="2" coveredconditionals="1" methods="1" coveredmethods="1"/>
+        <line num="11" count="4" type="cond" truecount="1" falsecount="1"/>
+        <line num="12" count="0" type="stmt"/>
+        <line num="19" count="4" type="stmt"/>
+      </file>
+      <file name="baseEach.js" path="C:\Users\tunii\Desktop\js_test_with_cicd\.internal\baseEach.js">
+        <metrics statements="11" coveredstatements="0" conditionals="6" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="13" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="14" count="0" type="stmt"/>
+        <line num="16" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="17" count="0" type="stmt"/>
+        <line num="19" count="0" type="stmt"/>
+        <line num="20" count="0" type="stmt"/>
+        <line num="21" count="0" type="stmt"/>
+        <line num="23" count="0" type="stmt"/>
+        <line num="24" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="25" count="0" type="stmt"/>
+        <line num="28" count="0" type="stmt"/>
+      </file>
+      <file name="baseFor.js" path="C:\Users\tunii\Desktop\js_test_with_cicd\.internal\baseFor.js">
+        <metrics statements="9" coveredstatements="0" conditionals="2" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="13" count="0" type="stmt"/>
+        <line num="14" count="0" type="stmt"/>
+        <line num="15" count="0" type="stmt"/>
+        <line num="16" count="0" type="stmt"/>
+        <line num="18" count="0" type="stmt"/>
+        <line num="19" count="0" type="stmt"/>
+        <line num="20" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="21" count="0" type="stmt"/>
+        <line num="24" count="0" type="stmt"/>
+      </file>
+      <file name="baseForOwn.js" path="C:\Users\tunii\Desktop\js_test_with_cicd\.internal\baseForOwn.js">
+        <metrics statements="1" coveredstatements="0" conditionals="2" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="13" count="0" type="cond" truecount="0" falsecount="2"/>
+      </file>
+      <file name="baseReduce.js" path="C:\Users\tunii\Desktop\js_test_with_cicd\.internal\baseReduce.js">
+        <metrics statements="3" coveredstatements="0" conditionals="2" coveredconditionals="0" methods="2" coveredmethods="0"/>
+        <line num="15" count="0" type="stmt"/>
+        <line num="16" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="20" count="0" type="stmt"/>
+      </file>
+      <file name="castSlice.js" path="C:\Users\tunii\Desktop\js_test_with_cicd\.internal\castSlice.js">
+        <metrics statements="3" coveredstatements="0" conditionals="6" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="13" count="0" type="stmt"/>
+        <line num="14" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="15" count="0" type="cond" truecount="0" falsecount="4"/>
+      </file>
+      <file name="createCaseFirst.js" path="C:\Users\tunii\Desktop\js_test_with_cicd\.internal\createCaseFirst.js">
+        <metrics statements="7" coveredstatements="7" conditionals="8" coveredconditionals="5" methods="2" coveredmethods="2"/>
+        <line num="13" count="1" type="stmt"/>
+        <line num="14" count="11" type="cond" truecount="2" falsecount="0"/>
+        <line num="15" count="1" type="stmt"/>
+        <line num="18" count="10" type="cond" truecount="1" falsecount="1"/>
+        <line num="22" count="10" type="cond" truecount="1" falsecount="1"/>
+        <line num="26" count="10" type="cond" truecount="1" falsecount="1"/>
+        <line num="30" count="10" type="stmt"/>
+      </file>
+      <file name="freeGlobal.js" path="C:\Users\tunii\Desktop\js_test_with_cicd\.internal\freeGlobal.js">
+        <metrics statements="1" coveredstatements="1" conditionals="4" coveredconditionals="4" methods="0" coveredmethods="0"/>
+        <line num="2" count="2" type="cond" truecount="4" falsecount="0"/>
+      </file>
+      <file name="getTag.js" path="C:\Users\tunii\Desktop\js_test_with_cicd\.internal\getTag.js">
+        <metrics statements="4" coveredstatements="3" conditionals="4" coveredconditionals="1" methods="1" coveredmethods="1"/>
+        <line num="1" count="6" type="stmt"/>
+        <line num="11" count="4" type="cond" truecount="1" falsecount="1"/>
+        <line num="12" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="14" count="4" type="stmt"/>
+      </file>
+      <file name="hasUnicode.js" path="C:\Users\tunii\Desktop\js_test_with_cicd\.internal\hasUnicode.js">
+        <metrics statements="11" coveredstatements="11" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="6" count="1" type="stmt"/>
+        <line num="7" count="1" type="stmt"/>
+        <line num="8" count="1" type="stmt"/>
+        <line num="9" count="1" type="stmt"/>
+        <line num="12" count="1" type="stmt"/>
+        <line num="15" count="1" type="stmt"/>
+        <line num="25" count="10" type="stmt"/>
+      </file>
+      <file name="isIndex.js" path="C:\Users\tunii\Desktop\js_test_with_cicd\.internal\isIndex.js">
+        <metrics statements="5" coveredstatements="2" conditionals="9" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="16" count="0" type="stmt"/>
+        <line num="17" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="19" count="0" type="cond" truecount="0" falsecount="7"/>
+      </file>
+      <file name="isPrototype.js" path="C:\Users\tunii\Desktop\js_test_with_cicd\.internal\isPrototype.js">
+        <metrics statements="4" coveredstatements="4" conditionals="5" coveredconditionals="4" methods="1" coveredmethods="1"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="12" count="2" type="cond" truecount="2" falsecount="0"/>
+        <line num="13" count="2" type="cond" truecount="2" falsecount="1"/>
+        <line num="15" count="2" type="stmt"/>
+      </file>
+      <file name="nodeTypes.js" path="C:\Users\tunii\Desktop\js_test_with_cicd\.internal\nodeTypes.js">
+        <metrics statements="8" coveredstatements="8" conditionals="21" coveredconditionals="17" methods="1" coveredmethods="1"/>
+        <line num="4" count="2" type="cond" truecount="4" falsecount="0"/>
+        <line num="7" count="2" type="cond" truecount="5" falsecount="0"/>
+        <line num="10" count="2" type="cond" truecount="2" falsecount="0"/>
+        <line num="13" count="2" type="cond" truecount="2" falsecount="0"/>
+        <line num="16" count="2" type="stmt"/>
+        <line num="17" count="2" type="stmt"/>
+        <line num="20" count="2" type="cond" truecount="3" falsecount="0"/>
+        <line num="21" count="2" type="cond" truecount="1" falsecount="1"/>
+      </file>
+      <file name="root.js" path="C:\Users\tunii\Desktop\js_test_with_cicd\.internal\root.js">
+        <metrics statements="3" coveredstatements="3" conditionals="12" coveredconditionals="6" methods="0" coveredmethods="0"/>
+        <line num="5" count="2" type="cond" truecount="4" falsecount="0"/>
+        <line num="8" count="2" type="cond" truecount="1" falsecount="3"/>
+        <line num="11" count="2" type="cond" truecount="1" falsecount="3"/>
+      </file>
+      <file name="stringToArray.js" path="C:\Users\tunii\Desktop\js_test_with_cicd\.internal\stringToArray.js">
+        <metrics statements="1" coveredstatements="0" conditionals="2" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="13" count="0" type="cond" truecount="0" falsecount="2"/>
+      </file>
+      <file name="unicodeToArray.js" path="C:\Users\tunii\Desktop\js_test_with_cicd\.internal\unicodeToArray.js">
+        <metrics statements="24" coveredstatements="23" conditionals="2" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="6" count="1" type="stmt"/>
+        <line num="7" count="1" type="stmt"/>
+        <line num="8" count="1" type="stmt"/>
+        <line num="9" count="1" type="stmt"/>
+        <line num="12" count="1" type="stmt"/>
+        <line num="13" count="1" type="stmt"/>
+        <line num="14" count="1" type="stmt"/>
+        <line num="15" count="1" type="stmt"/>
+        <line num="16" count="1" type="stmt"/>
+        <line num="17" count="1" type="stmt"/>
+        <line num="18" count="1" type="stmt"/>
+        <line num="19" count="1" type="stmt"/>
+        <line num="22" count="1" type="stmt"/>
+        <line num="23" count="1" type="stmt"/>
+        <line num="24" count="1" type="stmt"/>
+        <line num="25" count="1" type="stmt"/>
+        <line num="26" count="1" type="stmt"/>
+        <line num="27" count="1" type="stmt"/>
+        <line num="30" count="1" type="stmt"/>
+        <line num="40" count="0" type="cond" truecount="0" falsecount="2"/>
+      </file>
+    </package>
+  </project>
+</coverage>
